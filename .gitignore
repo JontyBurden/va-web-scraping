@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# global variables
+info.py
+.info.py
+.vscode/settings.json
+.vscode
